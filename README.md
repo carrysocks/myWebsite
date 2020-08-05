@@ -1,2 +1,5 @@
 # myWebsite
-Created with CodeSandbox
+
+build my portfolio website
+
+vanilla js/html/css
